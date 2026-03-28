@@ -11,9 +11,6 @@ Each skill is a `SKILL.md` file that Claude loads automatically when you ask abo
 ### [`lead-magnets/`](lead-magnets/SKILL.md)
 Hormozi's 7-step lead magnet framework. Helps you create free offers that build trust and make your core offer obvious. Covers problem selection, delivery formats, naming, CTAs, and common mistakes.
 
-### [`content-framework/`](content-framework/SKILL.md)
-Hook → Retain → Reward framework for writing high-performing content on any platform. Covers topic categories, headline components, retention structures, and platform formatting.
-
 ---
 
 ## How to use
